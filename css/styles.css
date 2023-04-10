@@ -5,8 +5,7 @@
 /* Changing the main font and background colour */
 
 body {
-	
-	font-family: Raleway, sans-serif;
+	ont-family: Raleway, sans-serif;
 	background-color: #FFFAF1;
 	
 }
@@ -15,7 +14,7 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	background-color: #FFFAF1;
+	background-color: #FFA310;
 
 	
 }
