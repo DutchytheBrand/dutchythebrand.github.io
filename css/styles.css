@@ -7,9 +7,17 @@
 body {
 	font-family: Raleway, sans-serif;
 	background-color: #FFFAF1;
-	
+	}
+h1 {
+	font-family: "gelica", sans-serif;
+font-weight: 700;
+font-style: normal;
 }
-
+h3 { 
+font-family: "gelica", sans-serif;
+font-weight: 700;
+font-style: normal;
+}
 
 /* Changing the background colour for the header */
 
